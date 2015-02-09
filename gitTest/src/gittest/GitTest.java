@@ -19,7 +19,7 @@ public class GitTest {
         System.out.println("it works");
         System.out.println(":)");
         
-        System.out.println("CUBE IT");
+        System.out.println("CUBE  IT");
     }
     
 }
