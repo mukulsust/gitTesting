@@ -5,6 +5,8 @@
  */ 
 package gittest;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author USER
@@ -19,6 +21,8 @@ public class GitTest {
         System.out.println("it works");
         System.out.println(":)");
         System.out.println("CUBE IT");
+        
+        JOptionPane.showMessageDialog(null, "hudai");
     }
     
 }
